@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I am a computer science student at the University of Georgia with a passion for <br>programming, machine learning, and creating extensive applications. I am currently working on an app that tracks your workouts, trakc your diet, and helps you progressively overload all in one.
+I am a computer science student at the University of Georgia with a passion for programming, machine learning, and creating extensive applications. I am currently working on an app that tracks your workouts, trakc your diet, and helps you progressively overload all in one.
 
 
 ## 🌐 Socials:
